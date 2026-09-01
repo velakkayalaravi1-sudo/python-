@@ -86,3 +86,17 @@
 #     print("small ticket")
 #    else:
 #     print("big ticket")
+
+# day=input("what day it is today (0=sunday 1=monday 2=tuesday 3=wednesday 4=thrusday 5=friday 6=saturday): ")
+# is_vacation=input("today is your vaction (0=no and 1=yes): ")
+# if is_vacation:
+#     if 
+#         print("off")
+#     else:
+#         print("10:00")
+# else:
+#     if day==0 or day==1 or day==3 or day==2 or day==4 or day==5:
+#         print("10:00")
+#     else:
+#         print("7:00")
+#this question is pending
