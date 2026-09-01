@@ -100,3 +100,12 @@
 #     else:
 #         print("7:00")
 #this question is pending
+
+# a=int(input("enter a: "))
+# b=int(input("enter b: "))
+# if a==6 or b==6:
+#    print(True)
+# elif a+b==6 or abs(a-b)==6:
+#    print(True)
+# else:
+#    print(False)
