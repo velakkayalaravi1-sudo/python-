@@ -86,5 +86,3 @@
 #     print("small ticket")
 #    else:
 #     print("big ticket")
-
-print("hello")
