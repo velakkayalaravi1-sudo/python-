@@ -70,19 +70,21 @@
 # else:
 #     print(sum)
 
-speed=int(input("enter your speed: "))
-is_birthday=int(input("today is your birthday? (1=yes or 0=no): "))
-if is_birthday:
-    if speed<=65:
-        print("no ticket")
-    elif speed>65 and speed<=85:
-        print("small ticket")
-    else:
-        print("big tickte")
-else:
-   if speed<=60:
-    print("no ticket")
-   elif speed>60 and speed<=80:
-    print("small ticket")
-   else:
-    print("big ticket")
+# speed=int(input("enter your speed: "))
+# is_birthday=int(input("today is your birthday? (1=yes or 0=no): "))
+# if is_birthday:
+#     if speed<=65:
+#         print("no ticket")
+#     elif speed>65 and speed<=85:
+#         print("small ticket")
+#     else:
+#         print("big tickte")
+# else:
+#    if speed<=60:
+#     print("no ticket")
+#    elif speed>60 and speed<=80:
+#     print("small ticket")
+#    else:
+#     print("big ticket")
+
+print("hello")
